@@ -10,3 +10,4 @@ Steps invloved:
 		
 3. Connect the windows in the required order.
 4. Run the welcome.py once all the connections are made.
+5. Profit!
